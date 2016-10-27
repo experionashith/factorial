@@ -4,7 +4,7 @@ import java.io.IOException;
  class FactorialExample
 {
      public static void main(String args[])
-	{
+	{//hiii
       int i,fact=1;
        System.out.println("Please enter number");
 
